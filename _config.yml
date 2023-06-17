@@ -58,6 +58,8 @@ plugins:
 
 # Stuff for minimal-mistakes theme
 search: true
+search_full_content: true
+
 lunr:
   search_within_pages: true
   search_full_content: true
